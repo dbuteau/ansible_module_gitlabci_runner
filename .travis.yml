@@ -1,3 +1,5 @@
+notifications:
+    webhooks: https://outlook.office.com/webhook/700961ed-505f-4e1e-b5fe-7c76f59fbfca@c2b3e619-27df-4933-a5c9-a04df220fc52/TravisCI/1185fc3e97fb4e05a5a97c3ba544567a/2642d2e9-1c56-43d8-85e1-617d7ba7a35c
 dist: trusty
 sudo: required
 language: python
